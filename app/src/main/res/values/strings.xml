@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Gallery Guide</string>
+    <string name="infoString">Welcome! I am your personal guide through this Gallery. Let me show you additional information about our Art Pieces.</string>
+</resources>
